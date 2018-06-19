@@ -1,4 +1,4 @@
-# linux_server_configuration
+# Linux Server Configuration
 This is the final project in the Udacity Full Stack Web Developer Nanodegree program
 
 ## Connection Details
@@ -7,7 +7,6 @@ This is the final project in the Udacity Full Stack Web Developer Nanodegree pro
 * Site URL:  https://ourwinejournal.com
 
 ## Summary
-
 This application is hosted on an Amazon AWS Lightsail instance
 
 **Primary software used:**
